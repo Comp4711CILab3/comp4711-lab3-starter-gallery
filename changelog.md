@@ -1,33 +1,31 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Niko Arellano (Captain) & Matthew Li (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 1*
 
-Release Date: Jul 26, 2027
+Release Date: Sep 26, 2017
 
 ## New Components
 
 -   controllers
 
-    -   serbian (AB)
+    -   [insert new controller] ([insert name])
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   [insert updated controller] ([insert name])
+    -   [insert updated controller] ([insert name])
 
 -   models
 
-    -   italian (AB)
+    -   [insert updated model] ([insert name])
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
-
-
+    -   [insert views model] ([insert name])
+    -   [insert views model] ([insert name])
