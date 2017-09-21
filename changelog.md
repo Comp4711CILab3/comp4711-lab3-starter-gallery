@@ -10,3 +10,7 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 - Added .gitignore
 - Updated the template view file
 - Updated the controllers to point to the content and render the template
+- Updated .gitignore to include database.php
+- Remove database.php from git
+- Added MySQL database to retrieve image info
+- Create a helper file to generate images from db data

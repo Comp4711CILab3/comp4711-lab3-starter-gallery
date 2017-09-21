@@ -7,7 +7,8 @@
 !*/logs/index.html
 */cache/*
 !*/cache/index.html
-!*/cache/.htaccess
+!*/cache/.
+application/config/database.php
 
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
